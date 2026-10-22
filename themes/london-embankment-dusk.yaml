@@ -1,0 +1,26 @@
+# Deuteranopia-checked theme for Orca. Red/green gap 22 (CIEDE2000, Machado 2009 full deuteranopia).
+name: 'London Embankment Dusk'
+accent: '#6a8e85'
+cursor: '#f2c455'
+background: '#161f2c'
+foreground: '#e8eef2'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1c2533'
+    red: '#c5573f'
+    green: '#6a8e85'
+    yellow: '#e2bd5c'
+    blue: '#5e87b3'
+    magenta: '#9b86a8'
+    cyan: '#82a8b8'
+    white: '#e8eef2'
+  bright:
+    black: '#4a566a'
+    red: '#e07050'
+    green: '#88aaa3'
+    yellow: '#f0cd6c'
+    blue: '#82a4cc'
+    magenta: '#b09bc0'
+    cyan: '#a0c2d0'
+    white: '#fafbfc'

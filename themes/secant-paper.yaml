@@ -1,0 +1,26 @@
+# Deuteranopia-checked theme for Orca. Red/green gap 43 (CIEDE2000, Machado 2009 full deuteranopia).
+name: 'Secant Paper'
+accent: '#1d5fb8'
+cursor: '#0b2545'
+background: '#eef0ea'
+foreground: '#0b2545'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#d1d3ce'
+    red: '#80132e'
+    green: '#1d5fb8'
+    yellow: '#946000'
+    blue: '#1528a1'
+    magenta: '#865e82'
+    cyan: '#0d565c'
+    white: '#2d435e'
+  bright:
+    black: '#71808f'
+    red: '#691026'
+    green: '#184e97'
+    yellow: '#794f00'
+    blue: '#112184'
+    magenta: '#6e4d6b'
+    cyan: '#0b474b'
+    white: '#081a30'

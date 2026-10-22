@@ -1,0 +1,26 @@
+# Deuteranopia-checked theme for Orca. Red/green gap 29 (CIEDE2000, Machado 2009 full deuteranopia).
+name: 'Rose Pine Moon (CB Fixed)'
+accent: '#3e8fb0'
+cursor: '#e0def4'
+background: '#232136'
+foreground: '#e0def4'
+details: darker
+terminal_colors:
+  normal:
+    black: '#3d3c4e'
+    red: '#eb6f92'
+    green: '#3e8fb0'
+    yellow: '#f6c177'
+    blue: '#5591ff'
+    magenta: '#d891c1'
+    cyan: '#66c3f7'
+    white: '#c4c2d8'
+  bright:
+    black: '#8b899f'
+    red: '#ef89a6'
+    green: '#61a3be'
+    yellow: '#f8cc8f'
+    blue: '#74a5ff'
+    magenta: '#dfa5cc'
+    cyan: '#82cef8'
+    white: '#e9e8f7'

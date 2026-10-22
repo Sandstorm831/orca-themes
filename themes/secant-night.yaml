@@ -1,0 +1,26 @@
+# Deuteranopia-checked theme for Orca. Red/green gap 39 (CIEDE2000, Machado 2009 full deuteranopia).
+name: 'Secant Night'
+accent: '#79a3e3'
+cursor: '#c9d6ea'
+background: '#0f1520'
+foreground: '#c9d6ea'
+details: darker
+terminal_colors:
+  normal:
+    black: '#2c313b'
+    red: '#f27983'
+    green: '#79a3e3'
+    yellow: '#ebbd58'
+    blue: '#407eee'
+    magenta: '#d259ac'
+    cyan: '#82cff9'
+    white: '#adb9cc'
+  bright:
+    black: '#757f8f'
+    red: '#f49199'
+    green: '#91b4e8'
+    yellow: '#efc976'
+    blue: '#6295f1'
+    magenta: '#da77bb'
+    cyan: '#98d8fa'
+    white: '#d9e2f0'

@@ -1,0 +1,26 @@
+# Deuteranopia-checked theme for Orca. Red/green gap 58 (CIEDE2000, Machado 2009 full deuteranopia).
+name: 'GitHub Dark Colorblind (Fixed)'
+accent: '#58a6ff'
+cursor: '#c9d1d9'
+background: '#0d1117'
+foreground: '#c9d1d9'
+details: darker
+terminal_colors:
+  normal:
+    black: '#2a2e33'
+    red: '#ec8e2c'
+    green: '#58a6ff'
+    yellow: '#f5d76e'
+    blue: '#4377e5'
+    magenta: '#de66b8'
+    cyan: '#5ad6f1'
+    white: '#adb4bc'
+  bright:
+    black: '#747b82'
+    red: '#efa252'
+    green: '#76b6ff'
+    yellow: '#f7de88'
+    blue: '#658fea'
+    magenta: '#e482c5'
+    cyan: '#78ddf4'
+    white: '#d9dfe4'

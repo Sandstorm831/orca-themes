@@ -1,0 +1,26 @@
+# Deuteranopia-checked theme for Orca. Red/green gap 24 (CIEDE2000, Machado 2009 full deuteranopia).
+name: 'Kurokula'
+accent: '#78b3a9'
+cursor: '#7a1c1c'
+background: '#141515'
+foreground: '#e0cfc2'
+details: darker
+terminal_colors:
+  normal:
+    black: '#333333'
+    red: '#c35a52'
+    green: '#78b3a9'
+    yellow: '#e1b917'
+    blue: '#5c91dd'
+    magenta: '#8b79a6'
+    cyan: '#867268'
+    white: '#e0cfc2'
+  bright:
+    black: '#515151'
+    red: '#ffc34c'
+    green: '#afffa5'
+    yellow: '#fff700'
+    blue: '#90dbff'
+    magenta: '#ad93ff'
+    cyan: '#ffcdb6'
+    white: '#ffffff'
